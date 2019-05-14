@@ -22,10 +22,10 @@
   "dependencies": {
     "@adobe/reactor-turbine-schemas": "^8.0.2",
     "@adobe/reactor-validator": "^2.0.6",
-    "camelcase": "^4.0.0",
+    "camelcase": "^5.3.1",
     "chalk": "^2.4.1",
     "clone": "^2.1.0",
-    "fs-extra": "^1.0.0",
+    "fs-extra": "^8.0.1",
     "inquirer": "^6.0.0"
   }
 }
